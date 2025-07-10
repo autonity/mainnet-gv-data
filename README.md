@@ -3,10 +3,11 @@ This repository contains the Genesis Validator data that will be used to create 
 
 # Important notes
 
-- Please do not use existing keys/addresses from previous genesises, instead generate new ones.
+- Do not use existing keys/addresses from previous genesises, instead generate new ones.
+- Ensure you have contributed your GV data for Bakerloo genesis (https://github.com/autonity/bakerloo-gv-data) **before** you contribute your Mainnet GV data to this repo.
 - You have been issued with a new Mainnet UUID, which you should use for this submission (*not* the UUID that was used for submitting your Bakerloo data).
-- Please avoid using Hetzner IP addresses to prevent clustering with a single cloud provider (this will be checked too and you may be asked to resubmit your enode).
-- Please submit your data by no later than **Wednesday, 23rd July 2025**.
+- Avoid using Hetzner IP addresses to prevent clustering with a single cloud provider (this will be checked too and you may be asked to resubmit your enode).
+- Submit your data by no later than **Wednesday, 23rd July 2025**.
 
 # Step-by-step guide
 The steps below outline how selected Genesis Validators should submit the required data for a successful launch of the Autonity Mainnet. Please:
