@@ -2,7 +2,7 @@
   "genesisValidatorData": [
     {
       "enode": "enode://042bb47fe1a11f9c0383f53fe8907d2d7d5f404eb777dfc18d402c251f3924fb23be0e41529c8baa1b093ec6841c2259b1027f83548765f16da615a0707cd7de@190.2.141.78:30303",
-      "treasury": "0xe8F811b17343629cB5BA4A1491F5E1305d8Bd4Bf",
+      "treasury": "0xE6A288D9AEa9fB4A6F496b9205adfA43A281EDeD",
       "consensusKey": "0x8ed20c8beb8b9ad3578e9cd18ce2d16bd6e209c80d57daf72fe84be7f2801b6dd894fdf9470105d3be6bece84c7d1e1b",
       "oracleAddress": "0xe8F811b17343629cB5BA4A1491F5E1305d8Bd4Bf"
     },
