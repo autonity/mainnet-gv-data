@@ -1,20 +1,13 @@
-// The example values below are purely for demonstration purposes and do not constitute valid data 
 {
   "genesisValidatorData": [
     {
-      // Enode can be found as per https://docs.autonity.org/validators/register-vali/#step-2.-determine-the-validator-enode-and-address
       "enode": "enode://6556d646609fdc3ca323797c5edaad4a47844d6f9a9c149c800788eb7deec558c9874292d8b1e31e99bc5f032b07f0186543b2c44fafb83c4531a398333ba9b4@45.153.35.148:30250",
-      // Treasury is the address you will use to operate the validator and receive commission revenue rewards to, as per https://docs.autonity.org/validators/register-vali/#step-1.-generate-a-cryptographic-proof-of-node-ownership
       "treasury": "0x8dEA3eFA35bB783F1F7561FC6077AF3b2162D0cd",
-      // Consensus key as per https://docs.autonity.org/validators/register-vali/#step-3.-determine-the-validator-consensus-public-key
       "consensusKey": "0x8819eb34b7505be4c8bfc56e2f2677de9e8cb2050f52d25e211f3bd6951fe287f8c5d7c8bc0664da6b68f9be542cd462",
-      // Oracle address as per https://docs.autonity.org/oracle/run-oracle/#create-oracle-server-account
       "oracleAddress": "0x1D7ef3B0da315bF57a79986e23b98A60740387f1"
     },
     {
-      // Validator address can be found as per https://docs.autonity.org/validators/register-vali/#step-2.-determine-the-validator-enode-and-address
       "validatorAddress": "0x8264506336d4cDa914Bedb3F3e8D6577CcD1f2ae",
-      // Ownership proof is generated as per https://docs.autonity.org/validators/register-vali/#step-1-generate-a-cryptographic-proof-of-node-ownership
       "ownershipProof": "0x9048074f1194ae558a424e8f605c3d991287b313a14168919dd4097fcaa971a95d587a00b5ce2c320877ef9680d92f2fdb3c2df95835dda89b8c9443953f594d00898558edff1733d82900f0a2e8e4eea4fb74351fa2a88d749be06b8b7ac67fd45d7b144f1e0d6d562348c570d76cd3ad5e6bc00c0b41d31009052f0713c36c3d008f9177d09b007f3cc920c31888167346344bb65c6d7b7a6714f5a4735a27bc58a4d2d2c6c046bd388274290aadeffb8d0f8f9f7e4d0887cea56c10d16ff63050bb8ec117a30c6b76c224c0781d3d80c3cd28780776ec7ffb5448990451d65506"
     }
   ]
